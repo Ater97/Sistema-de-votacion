@@ -243,7 +243,6 @@ namespace PSV {
 			this->comboBox1->Margin = System::Windows::Forms::Padding(2, 4, 2, 4);
 			this->comboBox1->Name = L"comboBox1";
 			this->comboBox1->Size = System::Drawing::Size(120, 22);
-			this->comboBox1->Sorted = true;
 			this->comboBox1->TabIndex = 5;
 			// 
 			// button3
